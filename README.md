@@ -33,6 +33,11 @@ $ git clone https://github.com/mirzayev/gulp4starter
 $ npm i
 $ gulp
 ```
+For getting final product (compressed & minified) 
+
+```
+$ gulp build
+```
 
 
 #### Author
